@@ -6,9 +6,8 @@ apalagi follow
 dasarr babi emang 💩
 ```
 # Warning !!
-```php
-* gunakan link tiktok yang fresh *
-```
+* website only from [zefoy.com](https://zefoy.com)
+* gunakan link tiktok yang fresh
 # Banner 💥
 <a href="https://ibb.co/wRK6BWY"><img src="https://i.ibb.co/BtgscZw/Screenshot-20231118-013019.png" alt="Screenshot-20231118-013019" border="0" /></a>
 # Instalation
