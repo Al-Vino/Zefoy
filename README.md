@@ -30,5 +30,5 @@ $ python auto_views.py
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Al-Vino) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)]
 
 
-## KASIH BINTANG WOY🌟🌟🌟🌟🌟🌟🌟
+# KASIH BINTANG WOY 🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
