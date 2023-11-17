@@ -5,9 +5,11 @@ engga kasih bintang
 apalagi follow
 dasarr babi emang 💩
 ```
-# Warning !!
+# Warning 
 * website only from [zefoy.com](https://zefoy.com)
 * gunakan link tiktok yang fresh
+* akun / vidio jangan di privat
+* jika masih gagal, kemungkinan website sedang maintenance !
 # Banner 💥
 <a href="https://ibb.co/wRK6BWY"><img src="https://i.ibb.co/BtgscZw/Screenshot-20231118-013019.png" alt="Screenshot-20231118-013019" border="0" /></a>
 # Instalation
